@@ -251,7 +251,7 @@ html {
     color: white;
 }
 
-/* Footer Bottom */
+
 .footer-bottom {
     background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
@@ -269,7 +269,7 @@ html {
     color: #ff6b6b;
 }
 
-/* Responsive Footer */
+
 @media (max-width: 768px) {
     #footer {
         padding: 40px 15px 0;
@@ -297,3 +297,4 @@ html {
         font-size: 1rem;
     }
 }
+
